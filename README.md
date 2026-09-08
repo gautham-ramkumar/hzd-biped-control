@@ -142,7 +142,7 @@ The two actuated joint angles are parameterized as 4th-order Bézier polynomials
 ├── get_stats.m                     # Walking speed / step statistics
 ├── set_path.m                      # Adds util/ and autogen/ to the MATLAB path
 ├── generate_latex.py               # Report-generation helper script
-├── Mini_Project3.tex, Mini_Project4.tex, report_updated.tex   # Written reports (final: report_updated.tex)
+├── Mini_Project3.pdf, Mini_Project4.pdf, report_updated.pdf   # Compiled reports (final: report_updated.pdf)
 └── *.png                           # Result figures referenced in this README and the reports
 ```
 
@@ -171,8 +171,8 @@ The optimized parameter vector `f = [q1_0, dq1_0, alpha3-5_q2, alpha3-5_q3]` pro
 
 ## Reports
 
-- [`report_updated.tex`](report_updated.tex) — final IEEE-format conference paper with the full derivation, optimization formulation, controller design, and results (walking speed, MCOT, Poincaré stability analysis).
-- [`Mini_Project3.tex`](Mini_Project3.tex), [`Mini_Project4.tex`](Mini_Project4.tex) — intermediate project milestone write-ups.
+- [`report_updated.pdf`](report_updated.pdf) — final IEEE-format conference paper with the full derivation, optimization formulation, controller design, and results (walking speed, MCOT, Poincaré stability analysis).
+- [`Mini_Project3.pdf`](Mini_Project3.pdf), [`Mini_Project4.pdf`](Mini_Project4.pdf) — intermediate project milestone write-ups.
 
 ## References
 

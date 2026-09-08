@@ -20,3 +20,7 @@ Thumbs.db
 *.fdb_latexmk
 *.bbl
 *.blg
+
+# LaTeX sources are kept locally but only the compiled PDFs are versioned
+*.tex
+IEEEtran.cls
