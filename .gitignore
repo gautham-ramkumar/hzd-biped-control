@@ -1,0 +1,22 @@
+# MATLAB autosave / junk
+*.asv
+*.m~
+untitled*.m
+
+# Stale duplicate copy of this project (superseded by root-level files)
+/EECE7398_project_unfinished/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
